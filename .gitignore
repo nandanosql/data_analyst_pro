@@ -1,0 +1,34 @@
+# ─── Generated Outputs ─────────────────────────────────────────────
+output/
+reports/
+data/
+queries/
+
+# ─── Python ────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# ─── Virtual Environments ─────────────────────────────────────────
+venv/
+env/
+.venv/
+.env
+
+# ─── IDE / Editor ─────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ─── OS ───────────────────────────────────────────────────────────
+desktop.ini
+*.lnk
